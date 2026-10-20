@@ -1,0 +1,5 @@
+runs/
+exp39/exp39_run/
+exp39/charlm.py
+__pycache__/
+.ipynb_checkpoints/
